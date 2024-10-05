@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annosha
 - 👀 I’m interested in Open Source
 - 🌱 I’m a front-end developer using HTML, CSS, JS, React.js.
-- 🌱 Intermediate UI/UX designer, interested in technical documentaion and beginner Python coder
+- 🌱 Intermediate UI/UX designer, interested in technical documentaion and intermediate Python coder
 - 💞️ I’m looking to collaborate on documentation and UI/UX based projects
 - 📫 How to reach me: annosha001@gmail.com
 

@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Annosha
 - 👀 I’m interested in Open Source
-- 🌱 I’m a front-end developer using HTML, CSS, JS, React.js.
-- 🌱 UI/UX designer, interested in technical documentaion and can code well in Python and JS
-- 💞️ I’m looking to collaborate on documentation and UI/UX based projects
+- 🌱 I’m a full-stack developer with expertise in JS, Node.js, React.js, Python and HTML, CSS.
+- 🌱 I started my journey as UI/UX designer, self taught Python and now MERN-stack dev.
+- 💞️ I’m looking to collaborate on full stack projects with focus on backend.
+- 💞️ I love learning new tech!
 - 📫 How to reach me: annosha001@gmail.com
 
 <!---
